@@ -1,0 +1,32 @@
+.bg-orange {
+    background-color: black !important;
+}
+
+.nav-item a.active {
+    color: black !important;
+}
+
+
+.test{
+    margin-left: 10px;
+}
+.social-media-icon {
+    padding: 6px 10px 10px 10px;
+    background: #222;
+    color: #fff;
+    margin: 5px;
+    border-radius: 18px;
+    
+}
+a.social-media-icon:hover{
+    background: #fff!important;
+    color: #222!important;
+    
+}
+
+.col .card .card-img-top{
+    object-fit: cover;
+}
+ .icon{
+    padding: 6px 10px 10px 10px;
+ }
